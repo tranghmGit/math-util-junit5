@@ -8,5 +8,5 @@
 
 ### ScreenShots
 ![DDT with JUnit using Maven](https://github.com/tranghmGit/math-util-junit5/blob/main/images/MathUtilTestDDT.png)
-#### © 2025 tranghmGit
+#### © 2025 tranghm
 
